@@ -1,0 +1,1 @@
+# Whoami — Uzzol Khoksa\n\n**Name:** Uzzol Khoksa\n**Email:** uzzolhassan38@gmail.com\n**GitHub:** https://github.com/uzzalhossainkhoksa/Uzzol-Hub.git\n\nShort bio: Web3 engineer, security specialist, and automation expert focused on building lightweight, mobile-first solutions and Podcast automation.\n

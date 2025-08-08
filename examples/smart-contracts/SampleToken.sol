@@ -1,0 +1,1 @@
+// SPDX-License-Identifier: MIT\npragma solidity ^0.8.17;\nimport "@openzeppelin/contracts/token/ERC20/ERC20.sol";\ncontract SampleToken is ERC20 {\n  constructor() ERC20("UzzolToken","UZZ") { _mint(msg.sender, 1000000 * 10 ** decimals()); }\n}\n
